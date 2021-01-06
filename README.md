@@ -1,3 +1,4 @@
+![sunrise photo](https://github.com/cisaacstern/cisaacstern/blob/main/sunrise.jpeg)
 ### Hi there 👋
 Here's a placeholder for my eventual profile README! More to come soon.
 <!--
