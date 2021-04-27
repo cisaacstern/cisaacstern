@@ -5,8 +5,6 @@
 
 📸 I took the photo above in August 2020. Here's where I was: https://bit.ly/3q4wxF1
 
-🔭 I'm currently seeking a Python engineering role related to open source tooling and/or earth science analytics.
-
 📫 Let's connect here or via any of the channels listed on [cstern.io](https://cstern.io)!
 
 <!--
