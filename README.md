@@ -1,13 +1,10 @@
 ![sunrise photo](https://github.com/cisaacstern/cisaacstern/blob/main/sunrise.jpeg)
 ### 👋 Welcome to Charles Stern's GitHub page.
 
-📌 Pinned repos (and those cataloged at [cstern.io/projects](https://cstern.io/projects)) are most representative of my current interests and abilities.
-
 📸 I took the photo above in August 2020. Here's where I was: https://bit.ly/3q4wxF1
 
-📫 Let's connect here or via any of the channels listed on [cstern.io](https://cstern.io)!
-
 <!--
+
 **cisaacstern/cisaacstern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
