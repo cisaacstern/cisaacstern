@@ -1,8 +1,5 @@
 ![sunrise photo](https://github.com/cisaacstern/cisaacstern/blob/main/sunrise.jpeg)
 ### 👋 Welcome to Charles Stern's GitHub page.
-
-📸 I took the photo above in August 2020. Here's where I was: https://bit.ly/3q4wxF1
-
 <!--
 
 **cisaacstern/cisaacstern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
