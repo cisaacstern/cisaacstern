@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pangeo Forge](https://pangeo-forge.readthedocs.io/en/latest/)
 - 👯 I’m looking to collaborate on transforming archival earth science datasets into cloud-optimized formats.
-- 🤔 I’m looking for help with Pangeo Forge [recipe development](https://pangeo-forge.readthedocs.io/en/latest/intro_tutorial.html) (And improving our documentation!).
+- 🤔 I’m looking for help with Pangeo Forge [recipe development]([https://pangeo-forge.readthedocs.io/en/latest/intro_tutorial.html](https://pangeo-forge.readthedocs.io/en/latest/pangeo_forge_cloud/recipe_contribution.html)).
 - 📫 How to reach me: here or [on Twitter](https://twitter.com/charlesstern).
 - 😄 Pronouns: he/him
 
